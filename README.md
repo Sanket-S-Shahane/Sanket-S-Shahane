@@ -35,4 +35,4 @@
 🔗 [LinkedIn](https://linkedin.com/in/sanket-s-shahane)  
 
 ![Power Electronics](https://img.shields.io/badge/Power_Electronics-Expert-red)  
-![Embedded](https://img.shields.io/badge/Embedded_STM32-Professional-blue)
+![Embedded](https://img.shields.io/badge/Embedded_STM32_ESP32-Professional-blue)
