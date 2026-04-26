@@ -19,10 +19,6 @@
 | ESP32 (FreeRTOS)   | PSIM/LTspice         | Lab Prototyping     |  
 | MODBUS RTU/TCP     | Waijung Blockset     | Power Stage Design  |  
 
-💼 **Freelance Services:**  
-- Custom power electronics solutions (design→prototype)  
-- Industrial automation firmware (STM32/ESP32)  
-- Legacy equipment modernization (Modbus→IoT)  
 
 📌 **Seeking Projects In:**  
 - Industrial motor control systems  
